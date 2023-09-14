@@ -19,7 +19,7 @@ A brief description of the files follows:
 3. occupancy_data_logreg.py : Uses Logistic Regression
 4. occupancy_data_exploration.py : Contains a simple framework for EDA
 5. occupancy_data_exploration_2.py : Contains a better framework for EDA
-6. club_2_and_3.py : Here, we treat a room occupancy count of 2 the same as a room occupancy count of 3.
-several machine learning techniques are applied here.
+6. club_2_and_3.py : Here, we treat a room occupancy count of 2 the same as a room occupancy count of 3. I've
+   used Linear and Logistic Regression, Decision Trees and Random Forest, as well as Adaptive Boosting.
 
 Ironically, it is the Autoregressive Model (arguably the simplest one), which performs best. 
